@@ -1,0 +1,23 @@
+'N2'    !sysname
+4       !Ncg
+300 	!Niter
+'dipole'
+80000 0.01d0  !NTiter,DT
+5d-3  ! rk_mom
+0d0
+0d0
+'yes'  !Bcondition
+'yes'  ! absorber
+'yes'  !predictor corrector
+0.00d0 8d0 ! w0,deltaW
+1d13 16.0 800.0 !Wcm2, t_pulse_fs, wave_length
+0.32d0      !H
+64,64,64   !NLx,NLy,NLz
+2,2,1   !Npx,Npy,Npz
+4       !Nd
+5,5     !NST,NSTocc
+2,1     !NI,NE
+1 'N' 
+1,0.0000001,0.00000001,-1.037176d0,1
+2,0.0000001,0.00000001,1.037176d0,1
+

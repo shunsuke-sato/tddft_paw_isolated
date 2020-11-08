@@ -1,0 +1,36 @@
+'N'     ! atom name
+7     ! nuclear charge
+1 1 1 0  ! number unoccupied orbit
+2d0 'c' ! 1s occupation & state
+2d0 'v' ! 2s occupation & state
+3d0 'v' ! 2p occupation & state
+0d0 'n' ! 3s occupation & state
+0d0 'n' ! 3p occupation & state
+0d0 'n' ! 3d occupation & state
+0d0 'n' ! 4s occupation & state
+0d0 'n' ! 4p occupation & state
+0d0 'n' ! 4d occupation & state
+0d0 'n' ! 4f occupation & state
+0d0 'n' ! 5s occupation & state
+0d0 'n' ! 5p occupation & state
+0d0 'n' ! 5d occupation & state
+0d0 'n' ! 6s occupation & state
+0d0 'n' ! 6p occupation & state
+0.32d0    ! grid size 3D
+9.0d0     ! softning
+0.03125d0 ! Dx
+421     ! Nx
+60d0    ! Rmax
+1.1d0   ! Rcomp
+1.93d0   ! Rfilt
+1.1d0   ! Rcore
+1.1d0   ! Rcut projector occ s
+1.1d0   ! Rcut projector occ p
+1.1d0   ! Rcut projector unocc s
+1.1d0   ! Rcut projector unocc p
+1.1d0   ! Rcut projector unocc d
+
+
+
+
+
